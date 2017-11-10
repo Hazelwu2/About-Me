@@ -33,23 +33,23 @@
 - [TodoList](https://todo-list-hazel.herokuapp.com/)  
   ⌞ Bootstrap 搭配 SCSS 快速樣式。   
   ⌞ 利用Rails框架，建構含有CRUD（新增、完成、刪除事件）的待做事項的基本功能。  
-    
+  
 - 颱風防災資訊平台 (RWD)  
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。   
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上  
   ⌞ 結合 Google Map Api 將資料標記在地圖上。  
-    
+  
 - [網路相簿](https://photo-album-hazel.herokuapp.com/photos)  
   ⌞ 透過 Rails框架，擁有 CRUD 基本功能(新增、完成與刪除事件)，能夠新增、編輯相片、上傳相片。  
-    
+  
 - [泉寶不動產](https://www.quan-bao.com.tw/)（RWD）  
   ⌞ 一人獨力完成的專案，採用Rails框架製成，有簡單的CRUD文章、串接FB API功能  
   ⌞ Bootstrap快速搭建響應式網頁、使用 jQuery 製作動態效果。  
-    
+  
 - [泉寶Demo](https://hazelwu2.github.io/sample)(RWD)  
   ⌞ 利用Bootstrap快速搭建響應式網頁  
   ⌞ 將 PSD 切成 RWD 佐以 Jquery 呈現動態效果轉換  
-    
+  
 - [有為青年樂團](https://hazelwu2.github.io/band/index.html)(RWD)  
   ⌞ 採Bootstrap建成響應式網頁  
   ⌞ 使用 css3 + jquery 製作動態效果，套用現成的jQuery Plugin  
