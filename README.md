@@ -29,10 +29,10 @@
 <hr>
 
 ### 作品集  
-- [Resume](https://hazelwu2.github.io/first-bootstrap-site-resume)
-   ⌞ 履歷表，採 SCSS & Botstrap 快速建造
-   ⌞ 結合 jQuery 特效製作動態效果
-   
+- [Resume](https://hazelwu2.github.io/first-bootstrap-site-resume)  
+   ⌞ 履歷表，採 SCSS & Botstrap 快速建造  
+   ⌞ 結合 jQuery 特效製作動態效果  
+  
 - [TodoList](https://todo-list-hazel.herokuapp.com/)  
    ⌞ Bootstrap 搭配 SCSS 快速樣式。   
    ⌞ 利用Rails框架，建構含有CRUD（新增、完成、刪除事件）的待做事項的基本功能。  
@@ -56,5 +56,5 @@
 - [有為青年樂團](https://hazelwu2.github.io/band/index.html)(RWD)  
   ⌞ 採Bootstrap建成響應式網頁  
   ⌞ 使用 css3 + jquery 製作動態效果，套用現成的jQuery Plugin  
-    
+  
   
