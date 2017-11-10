@@ -29,13 +29,16 @@
 <hr>
 
 ### 作品集  
-  
-- [TodoList](https://todo-list-hazel.herokuapp.com/)  
-  ⌞ Bootstrap 搭配 SCSS 快速樣式。   
-  ⌞ 利用Rails框架，建構含有CRUD（新增、完成、刪除事件）的待做事項的基本功能。  
+- [Resume](https://hazelwu2.github.io/first-bootstrap-site-resume)
+   ⌞ 履歷表，採 SCSS & Botstrap 快速建造
+   ⌞ 結合 jQuery 特效製作動態效果
+   
+- [TodoList](https://todo-list-hazel.herokuapp.com/)  
+   ⌞ Bootstrap 搭配 SCSS 快速樣式。   
+   ⌞ 利用Rails框架，建構含有CRUD（新增、完成、刪除事件）的待做事項的基本功能。  
   
 - 颱風防災資訊平台 (RWD)  
-  ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。   
+  - ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。   
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上  
   ⌞ 結合 Google Map Api 將資料標記在地圖上。  
   
