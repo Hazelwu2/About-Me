@@ -54,10 +54,10 @@
   ✔ 利用Bootstrap快速搭建響應式網頁  
   ✔ 將 Html,CSS3 切成 RWD 佐以 Jquery 呈現動態效果轉換  
   <br>
-- [AJAX篩選圖片](https://hazelwu2.github.io/sample)  
-  ✔ 用 SASS撰寫，利用 jQuery 製作動態效果  
-  ✔ 使用$.getJSON方法讀取本機.json資料，可以篩選圖庫，載入更多等動態效果    
-  <br>
+- [AJAX篩選圖片](https://hazelwu2.github.io/sample)    
+  ✔ 用 SASS撰寫，利用 jQuery 製作動態效果    
+  ✔ 使用$.getJSON方法讀取本機.json資料，可以篩選圖庫，載入更多等動態效果      
+  <br>  
 - [有為青年樂團](https://hazelwu2.github.io/band/index.html)(RWD)  
   ✔ 採Bootstrap建成響應式網頁  
   ✔ 使用 css3 + jquery 製作動態效果，套用現成的jQuery Plugin  
