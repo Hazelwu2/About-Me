@@ -42,17 +42,17 @@
    採Bootstrap建成響應式網頁  
    使用 CSS3 + jQuery 製作動態效果，套用現成的jQuery Plugin - Lightbox。  
 
-- [AJAX篩選圖片](https://hazelwu2.github.io/sample)    
-   用 SASS撰寫，利用 jQuery 製作動態效果    
+- [AJAX篩選圖片](https://hazelwu2.github.io/sample)  
+   用 SASS撰寫，利用 jQuery 製作動態效果  
    使用 jQuery 的 $.getJSON方法讀取本機.json資料，可以篩選圖庫，載入更多等動態效果  
 
 - [泉寶不動產](https://www.quan-bao.com.tw/)（RWD）    
-  一人獨力完成的專案，採用Rails框架製成，有簡單的CRUD文章、串接FB API功能  
-  Bootstrap快速搭建響應式網頁、使用 jQuery 製作動態效果    
+  一人獨力完成的專案，採用Rails框架製成，有簡單的CRUD文章、串接FB API功能  
+  Bootstrap快速搭建響應式網頁、使用 jQuery 製作動態效果  
   
 - [泉寶Demo](https://hazelwu2.github.io/AjaxMasonryPhoto)(RWD)  
    利用Bootstrap快速搭建響應式網頁  
-   將 HTML, CSS3 切成 RWD 佐以 jQuery 呈現動態效果轉換  
+   將 HTML, CSS3 切成 RWD 佐以 jQuery 呈現動態效果轉換  
 
 - [TodoList](https://todo-list-hazel.herokuapp.com/)  
    Bootstrap 搭配 SCSS 快速樣式。  
