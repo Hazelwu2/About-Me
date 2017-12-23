@@ -9,14 +9,14 @@
 
 ### 專業技能  
   
-  #### HTML / CSS  
+#### HTML / CSS  
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局。  
 - 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。  
 - 使用 Bootstrap 快速開發響應式網頁。  
 - 使用 SCSS 管理網頁版型。  
 - 理解 CSS3 的 animate、transform 及 transition。
   
-  #### JavaScript / Framework / 工具
+#### JavaScript / Framework / 工具
 - 了解 Javascript 基本語法，較常使用 jQuery / CSS3 做開發，呈現動態效果。  
 - 使用 Bootstrap 幫客戶開發過網站  
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上  
