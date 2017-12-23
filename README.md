@@ -1,24 +1,28 @@
   
 # 吳庭瑀 (Hazel Wu)
 - Birthday: 1994/02/26  
-- Education:致理科技大學進修部 / 應用英語  
-- Location: New Taipei City  
+- Education:致理科技大學進修部 / 應用英語系  
+- Location: New Taipei City  
 - E-mail: tinazx056@gmail.com  
 - Mobile: 0933-575-374  
 <hr>
 
 ### 專業技能  
   
-- 能夠使用Photoshop基本工具，PSD切版成HTML    
-- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局  
-- 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置  
+  #### HTML / CSS  
+- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局。  
+- 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。  
 - 使用 Bootstrap 快速開發響應式網頁。  
 - 使用 SCSS 管理網頁版型。  
-- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。  
+- 理解 CSS3 的 animate、transform 及 transition。
+  
+  #### JavaScript / Framework / 工具
+- 了解 Javascript 基本語法，較常使用 jQuery / CSS3 做開發，呈現動態效果。  
+- 使用 Bootstrap 幫客戶開發過網站  
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上  
-- 了解 Git / Github 與基本指令運用  
+- 了解 Git / Github 與基本指令運用  
 - 使用 Gulp / Bower 自動化工具開發  
-- 有接觸到 Rails 並實作小專案，能夠了解整個 MVC 架構，有助於與後端溝通  
+- 有接觸到 Rails 並實作小專案，了解整個 MVC 架構，有助於與後端溝通  
 <hr> 
   
 ### 工作經驗  
