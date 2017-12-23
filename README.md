@@ -9,20 +9,21 @@
 
 ### 專業技能  
   
-- 能夠使用Photoshop基本工具，psd切版成html。  
-- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局
-- 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。  
+- 能夠使用Photoshop基本工具，PSD切版成HTML    
+- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局  
+- 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置  
 - 使用 Bootstrap 快速開發響應式網頁。  
 - 使用 SCSS 管理網頁版型。  
 - 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。  
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上  
 - 了解 Git / Github 與基本指令運用  
-- 使用 Gulp / Bower 自動化工具開發
+- 使用 Gulp / Bower 自動化工具開發  
+- 有接觸到 Rails 並實作小專案，能夠了解整個 MVC 架構，有助於與後端溝通  
 <hr> 
   
 ### 工作經驗  
   
-- 泉寶不動產（接案） / 擔任前端/後台程式設計 ： 客製化客戶想要的版型 / 後台具備能新增文章、登入的功能。  
+- 泉寶不動產（接案） / 擔任前端/後台程式設計 ： 客製化客戶想要的版型 / 後台具備能新增文章、登入的功能    
 - 東宜資訊 / 客服人員 ： 站在第一線位置接聽客戶報修電腦相關問題的客服人員，具備抗壓性、責任感  
 - 50嵐 / PT正職 ： 調製飲料給客人，掌控所有物料備貨，練就一身能夠和團隊配合  
 <hr>
@@ -35,7 +36,7 @@
   
 - [有為青年樂團](https://hazelwu2.github.io/band/index.html)(RWD)  
    採Bootstrap建成響應式網頁  
-   使用 css3 + jquery 製作動態效果，套用現成的jQuery Plugin  
+   使用 CSS3 + jQuery 製作動態效果，套用現成的jQuery Plugin  
 
 - [AJAX篩選圖片](https://hazelwu2.github.io/sample)    
    用 SASS撰寫，利用 jQuery 製作動態效果    
