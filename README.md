@@ -38,9 +38,9 @@
    履歷表，採 SCSS & Botstrap 快速建造  
    結合 jQuery 特效製作動態效果  
   
-- [有為青年樂團](https://hazelwu2.github.io/band/index.html)(RWD)  
+- [有為青年樂團](https://hazelwu2.github.io/band/portfolio.html)(RWD)  
    採Bootstrap建成響應式網頁  
-   使用 CSS3 + jQuery 製作動態效果，套用現成的jQuery Plugin - Lightbox。  
+   使用 CSS3 + jQuery 製作動態效果，套用現成的jQuery Plugin - Isolate。  
 
 - [AJAX篩選圖片](https://hazelwu2.github.io/sample)  
    用 SASS撰寫，利用 jQuery 製作動態效果  
