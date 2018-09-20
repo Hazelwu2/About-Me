@@ -75,10 +75,6 @@
 - [泉寶不動產](https://www.quan-bao.com.tw/)（RWD）    
   一人獨力完成的專案，採用Rails框架製成，有簡單的CRUD文章、串接FB API功能。    
   Bootstrap快速搭建響應式網頁、使用 jQuery 製作動態效果。    
-  
-- [泉寶Demo](https://hazelwu2.github.io/AjaxMasonryPhoto)(RWD)  
-   利用Bootstrap快速搭建響應式網頁。  
-   將 HTML, CSS3 切成 RWD 佐以 jQuery 呈現動態效果轉換。    
 
 - [TodoList](https://todo-list-hazel.herokuapp.com/)  
    Bootstrap 搭配 SCSS 快速樣式。  
