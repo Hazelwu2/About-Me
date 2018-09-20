@@ -37,6 +37,18 @@
 - [Resume](https://hazelwu2.github.io/first-bootstrap-site-resume)(RWD)   
    履歷表，採 SCSS & Botstrap 快速建造。    
    結合 jQuery 特效製作動態效果。    
+
+- [Canvas Castle](https://codepen.io/wualnz/pen/bxKyKN?editors=1010)
+  利用 HTML5 的 Canvas 屬性繪製城堡。
+  對 Canvas 有基礎了解及應用。
+  
+- [Coffee Editor | Vue.js](https://hazelwu2.github.io/CoffeeEditor/)
+  利用Vue.js搭建完成。
+  理解資料雙向綁定功能。
+  
+- [Card Game | Vue.js](https://hazelwu2.github.io/Card-Game-Vue/)
+  運用 Vue 的 methods 及 動態class根據狀態套上資料
+  CSS3 Transform 3D 控制翻牌
   
 - [有為青年樂團](https://hazelwu2.github.io/band/portfolio.html)(RWD)  
    採Bootstrap建成響應式網頁。    
@@ -62,5 +74,3 @@
    透過 Rails框架，擁有 CRUD 基本功能(新增、完成與刪除事件)，能夠新增、編輯相片、上傳相片。  
    Heroku 串接 Amazon S3 storage 空間，將上傳的相片直接放在 S3 的 Bucket 裡。  
 
-  
-  
