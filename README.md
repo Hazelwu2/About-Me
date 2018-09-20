@@ -10,20 +10,34 @@
 ### 專業技能  
   
 #### HTML / CSS  
-- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局。  
-- 並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。  
-- 使用 Bootstrap 快速開發響應式網頁。  
-- 使用 SCSS 管理網頁版型。  
-- 理解 CSS3 的 animate、transform 及 transition。
+- 熟悉 HTML5 + CSS3 完成RWD頁面架構和布局。
+- 熟悉 CSS FrameWork，如 Bootstrap。
+- 常以 Pug & SASS 為開發工具，使用 Emmet 快速開發。
+- 有解決跨瀏覽器的相容性的經驗。
+- 不依賴 Framework 進行 RWD 客製化，開發符合各裝置尺寸的網站建置。 
+- 熟悉 Flexbox, RWD 的切版方式。
+- 使用 BEM 命名規範，讓網站架構一目了然。
   
-#### JavaScript / Framework / 工具
-- 了解 Javascript 基本語法，較常使用 jQuery / CSS3 做開發，呈現動態效果。  
-- 使用 Bootstrap 幫客戶開發過網站。    
-- 利用 AJAX 撈取遠端JSON資料並顯示在網頁上。    
-- 了解 Git / Github 與基本指令運用。    
-- 使用 Gulp / Bower 自動化工具開發。    
-- 有接觸到 Rails 並實作小專案，了解整個 MVC 架構，有助於與後端溝通。    
+#### JavaScript
+- 了解 JavasScript 基本語法，較常使用 jQuery開發，呈現動態效果。
+- 熟悉利用 AJAX 串接第三方API。
+- 有接觸過 Rails 並實作小專案，了解整個 MVC 架構，有助於與後端溝通。
+- 理解 Vue 的資料雙向綁定概念。
+- Vue.js FrameWork 正在學習中。
+- Canvas 正在學習中。
 <hr> 
+
+#### Tools
+- 常用 VS Code 做為開發工具 
+- 熟悉 Git 指令，如rebase等。（技術筆記：Git筆記）
+- 熟悉 Chrome Dev Tool 
+- 熟悉 NPM, yarn指令
+- 熟悉 gulp, bowser, webpack 自動化打包工具（Gulp + Bowser Demo）
+- 熟悉操作 CloudFlare 經驗，幫助網站快速連線、免費SSL憑證（筆記）
+- 使用 Hexo 紀錄技術上遇到問題、整合能力強（Blog） 
+- 有 Heroku、Google Cloud Platform 架設經驗，熟悉 Linux Server 查詢指令（筆記）
+- 使用過 Travis CI 自動化建置環境經驗 
+- API文件閱讀能力、遇到問題會上Stackoverflow查詢並解決
   
 ### 工作經驗  
   
