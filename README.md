@@ -53,16 +53,16 @@
    結合 jQuery 特效製作動態效果。    
 
 - [Canvas Castle](https://codepen.io/wualnz/pen/bxKyKN?editors=1010)
-  利用 HTML5 的 Canvas 屬性繪製城堡。
-  對 Canvas 有基礎了解及應用。
+  <br>利用 HTML5 的 Canvas 屬性繪製城堡。
+  <br>對 Canvas 有基礎了解及應用。
   
 - [Coffee Editor | Vue.js](https://hazelwu2.github.io/CoffeeEditor/)
-  利用Vue.js搭建完成。
-  理解資料雙向綁定功能。
+  <br>利用Vue.js搭建完成。
+  <br>理解資料雙向綁定功能。
   
 - [Card Game | Vue.js](https://hazelwu2.github.io/Card-Game-Vue/)
-  運用 Vue 的 methods 及 動態class根據狀態套上資料
-  CSS3 Transform 3D 控制翻牌
+  <br>運用 Vue 的 methods 及 動態class根據狀態套上資料
+  <br>CSS3 Transform 3D 控制翻牌
   
 - [有為青年樂團](https://hazelwu2.github.io/band/portfolio.html)(RWD)  
    採Bootstrap建成響應式網頁。    
